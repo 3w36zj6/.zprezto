@@ -14,3 +14,12 @@ fi
 autoload -Uz promptinit
 promptinit
 prompt paradox
+
+alias ls='lsd'
+alias cat='bat'
+alias diff='delta'
+
+alias ipy='ipython'
+
+alias python3='py'
+alias python='py'
